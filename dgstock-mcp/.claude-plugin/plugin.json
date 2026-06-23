@@ -1,0 +1,11 @@
+{
+  "name": "dgstock",
+  "description": "Connecteur MCP DGStock — accès en lecture seule à vos prospections (DG-SALE / DG-STOCK), avec authentification automatique via votre navigateur.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DGSOFTWARE",
+    "email": "dgsoftware1334@gmail.com"
+  },
+  "homepage": "https://dgstock.org",
+  "license": "UNLICENSED"
+}

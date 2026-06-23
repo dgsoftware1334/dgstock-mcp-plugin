@@ -1,0 +1,15 @@
+{
+  "name": "dgsoftware",
+  "owner": {
+    "name": "DGSOFTWARE",
+    "email": "dgsoftware1334@gmail.com"
+  },
+  "description": "Connecteurs et outils internes DGSOFTWARE pour Claude Code / Cowork",
+  "plugins": [
+    {
+      "name": "dgstock",
+      "source": "./dgstock-mcp",
+      "description": "Connecteur MCP DGStock — accès en lecture seule à vos prospections, avec authentification automatique (aucun mot de passe ni token à saisir dans Claude)."
+    }
+  ]
+}

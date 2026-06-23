@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dgstock": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/dgstock-mcp.bundle.mjs"],
+      "env": {
+        "DGSTOCK_API_BASE_URL": "https://dgstock.org",
+        "DGSTOCK_WEB_BASE_URL": "https://app.dgstock.org"
+      }
+    }
+  }
+}
